@@ -19,52 +19,19 @@ I am open to academic positions, postdoctoral opportunities, applied R&D collabo
 
 ---
 
-## Featured Projects
+## Featured Frameworks
 
-### 🔹 ODDET — Origin–Destination Data Evaluation Tool
+🔹 **ODDET** — Origin–Destination Data Evaluation Tool  
+Large-scale analytical mobility framework  
+➡️ https://github.com/henriquecostabraga/ODDET
 
-A modular Python-based analytical framework designed for large-scale origin–destination matrix processing derived from mobile phone datasets.
+🔹 **FUGA** — Evacuation & Pathfinding Simulation Platform  
+Agent-based evacuation modeling framework  
+➡️ https://github.com/henriquecostabraga/FUGA
 
-Key components:
-
-- Interzonal traversal analysis  
-- Percentile-based flow filtering  
-- Geodetic distance computation (Haversine)  
-- Graph-based analytical routines  
-- Structured data processing pipelines  
-
-Designed to support metropolitan-scale mobility diagnostics and analytical decision-making.
-
----
-
-### 🔹 FUGA — Evacuation & Pathfinding Simulation Framework
-
-An agent-based simulation platform for modeling pedestrian dynamics and evacuation processes in built environments.
-
-Core elements:
-
-- Distance-map generation algorithms  
-- Von Neumann / Moore neighborhood comparison  
-- Multi-agent movement logic  
-- Exit distribution impact analysis  
-- Integration with fire safety engineering standards  
-
-Developed to bridge evacuation theory, computational modeling, and applied fire safety engineering.
-
----
-
-### 🔹 SimCres — 3D Hybrid Cellular Automata for Microstructural Evolution
-
-A computational platform for simulating recrystallization and grain growth in metallic materials.
-
-Core elements:
-
-- Spheroidal grain modeling  
-- Surface-area estimation methods  
-- Lattice-based 3D simulation  
-- Statistical morphological analysis  
-
-Focused on integrating physical modeling consistency with scalable computational implementation.
+🔹 **SimCres** — 3D Hybrid Cellular Automata  
+Microstructural evolution simulation platform  
+➡️ https://github.com/henriquecostabraga/SimCres
 
 ---
 
@@ -124,10 +91,13 @@ I focus on designing computational systems that are analytically rigorous and pr
 
 ---
 
-## Profiles
-- <a href="https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
-- <a href="https://orcid.org/0000-0001-9504-6156" target="_blank" rel="noopener noreferrer">ORCID</a>
-- <a href="http://lattes.cnpq.br/4000581168785421" target="_blank" rel="noopener noreferrer">CV Lattes (Brazil)</a>
+## Professional Links
+
+🌐 Website: https://henriquecostabraga.github.io  
+🔗 LinkedIn: https://linkedin.com/in/henrique-costa-braga-71636057  
+🧬 ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX  
+📊 ResearchGate: https://www.researchgate.net/profile/...
+
   
 ## Contact
 📧 henriquecbragaseg@gmail.com  
