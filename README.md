@@ -33,7 +33,7 @@ A structured Python-based framework for processing and diagnosing large-scale Or
 
 **Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
 
-➡️ [Explore ODDET Framework](oddet.md)
+➡️ [Explore ODDET Framework](oddet)
 
 ---
 
