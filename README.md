@@ -48,7 +48,7 @@ A simulation framework designed to analyze pedestrian dynamics, distance-map gen
 - Exit-distribution optimization analysis  
 - Integration with fire safety engineering standards
 
-➡️ [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga)
+➡️ [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga.md)
 
 ---
 
@@ -63,7 +63,7 @@ A computational system for simulating recrystallization and grain growth in meta
 - Lattice-based 3D simulation  
 - Statistical morphological analysis
 
-➡️ [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres)
+➡️ [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres.md)
 
 ---
 
