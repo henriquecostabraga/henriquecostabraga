@@ -33,6 +33,8 @@ A structured Python-based framework for processing and diagnosing large-scale Or
 
 **Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
 
+➡️ [Explore ODDET Framework](oddet.html)
+
 ---
 
 ### FUGA — Evacuation & Pathfinding Simulation Platform  
@@ -44,7 +46,9 @@ A simulation framework designed to analyze pedestrian dynamics, distance-map gen
 - Von Neumann and Moore neighborhood comparison  
 - Multi-agent movement logic  
 - Exit-distribution optimization analysis  
-- Integration with fire safety engineering standards  
+- Integration with fire safety engineering standards
+
+➡️ [Explore FUGA Framework](fuga.html)
 
 ---
 
@@ -57,7 +61,9 @@ A computational system for simulating recrystallization and grain growth in meta
 - Spheroidal grain modeling  
 - Surface-area estimation methodologies  
 - Lattice-based 3D simulation  
-- Statistical morphological analysis  
+- Statistical morphological analysis
+
+➡️ [Explore SimCres Framework](simcres.html)
 
 ---
 
