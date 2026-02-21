@@ -19,7 +19,7 @@ I am open to academic appointments, postdoctoral opportunities, applied R&D coll
 
 ## Core Projects & Computational Frameworks
 
-### 🔹 ODDET — Origin–Destination Data Evaluation Tool  
+### ODDET — Origin–Destination Data Evaluation Tool  
 **Large-scale mobility analytics framework**
 
 A structured Python-based framework for processing and diagnosing large-scale Origin–Destination matrices derived from anonymized mobile phone datasets.
@@ -35,7 +35,7 @@ A structured Python-based framework for processing and diagnosing large-scale Or
 
 ---
 
-### 🔹 FUGA — Evacuation & Pathfinding Simulation Platform  
+### FUGA — Evacuation & Pathfinding Simulation Platform  
 **Agent-based evacuation modeling system**
 
 A simulation framework designed to analyze pedestrian dynamics, distance-map generation, and evacuation efficiency in built environments.
@@ -48,7 +48,7 @@ A simulation framework designed to analyze pedestrian dynamics, distance-map gen
 
 ---
 
-### 🔹 SimCres — 3D Hybrid Cellular Automata  
+### SimCres — 3D Hybrid Cellular Automata  
 **Microstructural evolution modeling platform**
 
 A computational system for simulating recrystallization and grain growth in metallic materials using three-dimensional hybrid cellular automata.
@@ -112,12 +112,12 @@ Selected publications in computational modeling, evacuation analysis, and materi
 
 ## Professional Links
 
-🌐 Website: https://henriquecostabraga.github  
-🔗 LinkedIn: https://linkedin.com/in/henrique-costa-braga-71636057  
-🧬 ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX  
-📊 ResearchGate: https://www.researchgate.net/profile/...
+Website: https://henriquecostabraga.github  
+LinkedIn: https://linkedin.com/in/henrique-costa-braga-71636057  
+ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX  
+ResearchGate: https://www.researchgate.net/profile/...
 
   
 ## Contact
-📧 henriquecbragaseg@gmail.com  
-📧 henriquebraga@cefetmg.br
+henriquecbragaseg@gmail.com  
+henriquebraga@cefetmg.br
