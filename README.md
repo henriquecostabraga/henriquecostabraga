@@ -112,9 +112,9 @@ Selected publications in computational modeling, evacuation analysis, and materi
 
 ## Professional Links
 
-🔗 [LinkedIn](https://linkedin.com/in/henrique-costa-braga-71636057)  
-🧬 [ORCID](https://orcid.org/0000-0001-9504-6156)
-📊 [ResearchGate](https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf)
+- 🔗 [LinkedIn](https://linkedin.com/in/henrique-costa-braga-71636057)  
+- 🧬 [ORCID](https://orcid.org/0000-0001-9504-6156)  
+- 📊 [ResearchGate](https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf)
 
   
 ## Contact
