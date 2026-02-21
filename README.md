@@ -1,78 +1,97 @@
 # Henrique Costa Braga, Ph.D.
-Engineer | Computational Modeling | Applied Systems Architecture
+Engineer | Applied Systems Architecture | Research-to-Implementation Design  
+
+Architecting computational systems that bridge research and real-world engineering applications.
 
 ---
 
-## Profile
+## Professional Overview
 
-I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems, with emphasis on the design and implementation of structured computational architectures.
+I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems. My work focuses on designing structured computational architectures that transform theoretical models into operational analytical frameworks.
 
-My work integrates theoretical formulation, numerical modeling, and software architecture design to build operational computational frameworks capable of addressing real-world engineering problems.
+My professional trajectory integrates academic research and applied engineering practice. I have coordinated research activities involving large-scale data-processing pipelines, mobility system analytics, and simulation-based engineering models, while also holding formal technical responsibility (ART – CREA) in fire safety and regulatory compliance projects.
 
-I develop model-driven systems combining hybrid cellular automata, agent-based modeling, graph-based algorithms, numerical simulation, and structured data-processing pipelines. My work emphasizes modular design, architectural clarity, and reproducible analytical workflows.
+I operate at the interface between theory, modeling, and implementation — building systems that are analytically rigorous, computationally structured, and practically deployable.
 
-My professional trajectory bridges academic research and applied engineering practice, including formal technical responsibility (ART – CREA) in fire safety systems and regulatory compliance projects.
-
-I coordinate research activities involving large-scale data processing pipelines and computational modeling architectures, translating analytical concepts into deployable computational tools.
-
-I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, and technical engineering roles involving modeling, simulation, and analytical system design.
+I am open to academic appointments, postdoctoral opportunities, applied R&D collaborations, and senior technical engineering roles involving modeling, simulation, and analytical system design.
 
 ---
 
-## Featured Frameworks
+## Core Projects & Computational Frameworks
 
-🔹 **ODDET** — Origin–Destination Data Evaluation Tool  
-Large-scale analytical mobility framework  
-➡️ https://github.com/henriquecostabraga/ODDET
+### 🔹 ODDET — Origin–Destination Data Evaluation Tool  
+**Large-scale mobility analytics framework**
 
-🔹 **FUGA** — Evacuation & Pathfinding Simulation Platform  
-Agent-based evacuation modeling framework  
-➡️ https://github.com/henriquecostabraga/FUGA
+A structured Python-based framework for processing and diagnosing large-scale Origin–Destination matrices derived from anonymized mobile phone datasets.
 
-🔹 **SimCres** — 3D Hybrid Cellular Automata  
-Microstructural evolution simulation platform  
-➡️ https://github.com/henriquecostabraga/SimCres
+**Capabilities:**
+- Interzonal traversal analysis  
+- Percentile-based flow filtering  
+- Geodetic distance computation (Haversine)  
+- Corridor identification and threshold analytics  
+- Modular data-processing architecture  
 
----
-
-## Areas of Application
-
-- Computational Materials Engineering  
-- Large-Scale Urban Mobility Modeling (Origin–Destination Systems)  
-- Pedestrian Dynamics & Evacuation Simulation  
-- Fire Safety Engineering & Regulatory Analysis  
-- Scientific Python Architectures  
+**Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
 
 ---
 
-## Technical Foundations
+### 🔹 FUGA — Evacuation & Pathfinding Simulation Platform  
+**Agent-based evacuation modeling system**
 
-- Hybrid Cellular Automata (HCA)  
-- Agent-Based Modeling (ABM)  
+A simulation framework designed to analyze pedestrian dynamics, distance-map generation, and evacuation efficiency in built environments.
+
+**Capabilities:**
+- Von Neumann and Moore neighborhood comparison  
+- Multi-agent movement logic  
+- Exit-distribution optimization analysis  
+- Integration with fire safety engineering standards  
+
+---
+
+### 🔹 SimCres — 3D Hybrid Cellular Automata  
+**Microstructural evolution modeling platform**
+
+A computational system for simulating recrystallization and grain growth in metallic materials using three-dimensional hybrid cellular automata.
+
+**Capabilities:**
+- Spheroidal grain modeling  
+- Surface-area estimation methodologies  
+- Lattice-based 3D simulation  
+- Statistical morphological analysis  
+
+---
+
+## Areas of Expertise
+
+- Computational Systems Architecture  
+- Hybrid Cellular Automata (3D HCA)  
+- Agent-Based Modeling  
 - Graph Algorithms & Pathfinding  
-- Numerical Methods & Scientific Computing  
-- Python (NumPy, Pandas, Matplotlib)  
-- Fire Dynamics Simulator (NIST – FDS)  
-- Engineering Responsibility & Technical Compliance  
+- Large-Scale OD Matrix Processing  
+- Scientific Python (NumPy, Pandas, Matplotlib)  
+- Fire Safety Engineering & Regulatory Analysis  
+- Data-Driven Engineering Diagnostics  
 
 ---
 
-## Approach
+## Engineering Approach
 
 My work is structured around:
 
-- Model-first architecture  
+- Model-first computational design  
 - Mathematical consistency  
-- Modular computational design  
+- Modular architecture and scalability  
 - Reproducible analytical workflows  
-- System-level integration  
-- Translation of research into operational tools  
+- Integration of research and implementation  
+- System-level problem structuring  
 
-I focus on designing computational systems that are analytically rigorous and practically deployable.
+I focus on developing computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
 
 ---
 
 ## Selected Peer-Reviewed Publications
+
+Selected publications in computational modeling, evacuation analysis, and materials simulation.
 
 - Braga HC, Silva SN, Correa ECS. *Modeling and simulation of recrystallization in metals with spheroidal grain structures using hybrid cellular automata.* **Materia** (Rio de Janeiro), 2026.  
   DOI: <a href="https://doi.org/10.1590/1517-7076-RMAT-2025-0758" target="_blank" rel="noopener noreferrer">10.1590/1517-7076-RMAT-2025-0758</a>
@@ -93,7 +112,7 @@ I focus on designing computational systems that are analytically rigorous and pr
 
 ## Professional Links
 
-🌐 Website: https://henriquecostabraga.github.io  
+🌐 Website: https://henriquecostabraga.github  
 🔗 LinkedIn: https://linkedin.com/in/henrique-costa-braga-71636057  
 🧬 ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX  
 📊 ResearchGate: https://www.researchgate.net/profile/...
