@@ -33,7 +33,7 @@ A structured Python-based framework for processing and diagnosing large-scale Or
 
 **Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
 
-➡️ [Explore ODDET Framework](oddet.html)
+➡️ [Explore ODDET Framework](oddet.md)
 
 ---
 
@@ -48,7 +48,7 @@ A simulation framework designed to analyze pedestrian dynamics, distance-map gen
 - Exit-distribution optimization analysis  
 - Integration with fire safety engineering standards
 
-➡️ [Explore FUGA Framework](fuga.html)
+➡️ [Explore FUGA Framework](fuga.md)
 
 ---
 
@@ -63,7 +63,7 @@ A computational system for simulating recrystallization and grain growth in meta
 - Lattice-based 3D simulation  
 - Statistical morphological analysis
 
-➡️ [Explore SimCres Framework](simcres.html)
+➡️ [Explore SimCres Framework](simcres.md)
 
 ---
 
