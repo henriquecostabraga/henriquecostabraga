@@ -116,6 +116,14 @@ Selected publications in computational modeling, evacuation analysis, and materi
 
 ---
 
+## Project Pages
+
+- [ODDET — Mobility Framework](oddet.html)
+- [FUGA — Evacuation Modeling Framework](fuga.html)
+- [SimCres — Materials Modeling Framework](simcres.html)
+
+---
+  
 ## Professional Links
 
 - 🔗 [LinkedIn](https://linkedin.com/in/henrique-costa-braga-71636057)  
